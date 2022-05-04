@@ -8,7 +8,7 @@ Want to increase profile search apperence in Naukri.com and stand out from other
     1. Click on use template button at this reposiotry.
     2. In index.js, update your Naukri.com email and password.
     3. Open .github/workflow and edit node.js.yml file:
-        i.  uncomment line 11
+        i.  uncomment line 10 and 11
         ii. uncomment line 15 and 16
         and commit changes.
     4. Done! Now this workflow will do the magic for you.
